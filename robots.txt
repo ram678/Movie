@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ram678.github.io/Movie/sitemap.xml
